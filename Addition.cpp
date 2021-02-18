@@ -41,7 +41,7 @@ int main()
  
  Ans=obj.Addition(a,b);
  
- cout<<"\n\nAddition="<<Ans<<"\n\n";
+ cout<<"\n\nAddition="<<Ans<<"\n\n\n";
  
  return 0;
 }
